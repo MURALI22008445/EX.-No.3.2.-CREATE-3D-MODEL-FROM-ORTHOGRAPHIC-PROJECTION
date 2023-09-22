@@ -43,6 +43,10 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
+
+
+![edm 3 2 murali_page-0001](https://github.com/MURALI22008445/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/119643767/8956aa8c-1565-4183-b6a2-37b87cdbd899)
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
